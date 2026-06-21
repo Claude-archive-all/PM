@@ -14,7 +14,8 @@
 
 ---
 ### 1.webp
-A dark blue background with vertical lines of bright blue lights. The lights are arranged in a symmetrical pattern, with brighter clusters in the center and on the sides, and dimmer lights in between. The overall effect is one of a digital equalizer or a stage lighting display.
+The image depicts a futuristic cityscape bathed in vibrant pink and purple hues. The skyline is dominated by numerous tall, angular skyscrapers of varying heights, many of which are illuminated with pink and magenta lights, suggesting a nighttime or twilight setting. Some buildings have sharp, pointed tops, adding to the modern and somewhat dystopian feel. The atmosphere is hazy, with a soft glow emanating from the city lights and the sky, which transitions from a brighter pink near the horizon to a deeper purple overhead.
+In the foreground, there is a reflective, dark surface, possibly a platform or a road, that mirrors the colors of the sky and the city. This surface is marked by glowing orange lines forming abstract, curved patterns, reminiscent of a track or a circuit. These lines create a sense of depth and lead the viewer's eye towards the distant city. The overall composition is balanced, with the foreground elements providing a stark contrast to the sprawling urban landscape in the background. The image evokes a sense of advanced technology and urban grandeur, characteristic of cyberpunk or science fiction aesthetics. The dominant colors are shades of pink, purple, and orange, creating a visually striking and immersive experience.
 ---
 ### 2.webp
 A dynamic, low-angle shot of a race track at night, with a prominent metal gantry structure overhead. The track itself is marked with a checkered finish line, and the surrounding area is bathed in vibrant blue light, with bright stadium lights illuminating the scene from above. The image conveys a sense of speed and excitement, with motion blur adding to the dramatic effect.
