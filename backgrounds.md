@@ -49,14 +49,4 @@ A dark purple background is filled with diagonal, jagged lines that resemble lig
 ### 12.webp
 A futuristic roller coaster track leads into a large, illuminated circular tunnel. The tunnel is lined with bright yellow lights and has a metallic, industrial design. On either side of the track, neon signs in the shape of arrows glow, one in blue and the other in pink. In the background, a Ferris wheel is visible, also illuminated with colorful lights. The overall atmosphere is dark and energetic, with a sense of motion and excitement.
 ---
-### 13.webp
-A dark, futuristic hallway with glowing blue hexagonal outlines and lights. The floor is reflective, mirroring the blue lights.
----
-### 14.webp
-A dark blue background with diagonal lines of light in shades of blue and purple. The lines are sharp and angular, creating a sense of depth and movement. Some of the lines are thin and bright, while others are thicker and more diffused. The overall effect is futuristic and abstract.
----
-### 15.webp
-A dark blue background with streaks of light in various colors, including bright blue, pink, and orange. The lights are curved and appear to be moving from left to right, creating a sense of speed and motion. There is a bright white light in the center of the image, which seems to be the source of some of the light streaks. The overall impression is one of abstract energy and movement.
-
----
 <!-- Новые записи добавляй ниже этой строки -->
