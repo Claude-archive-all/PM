@@ -39,4 +39,8 @@ A wall of bright, warm-toned lights is arranged in a grid pattern. The lights ar
 
 ---
 
+### 6.webp
+A dark, abstract, and glitchy background with sharp, angular purple and white shapes bursting inwards from the edges. In the center, a circular, dark shape with a lighter outline is visible, surrounded by fragmented text and patterns. The overall aesthetic is chaotic and energetic, with a strong emphasis on sharp lines and a limited color palette of black, purple, and white.
+
+---
 <!-- Новые записи добавляй ниже этой строки -->
